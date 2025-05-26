@@ -15,8 +15,7 @@ A simple calculator app built using **PySide6 (Qt for Python)** with a modern an
 
 ##  Screenshot
 
-> *(You can add a screenshot here later)*  
-> Just drag and drop an image into the README on GitHub.
+![Screenshot 2025-05-26 172214](https://github.com/user-attachments/assets/d0da6dcd-ea37-43dd-b2c9-0927e5814b10)
 
 ---
 
